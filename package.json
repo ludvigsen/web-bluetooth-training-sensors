@@ -1,0 +1,38 @@
+{
+  "name": "web-bluetooth-training-sensors",
+  "version": "0.0.1",
+  "description": "Javascript library for connecting to and read / write data to training sensors via web-bluetooth",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludvigsen/web-bluetooth-training-sensors.git"
+  },
+  "keywords": [
+    "web",
+    "bluetooth",
+    "cycling",
+    "powermeter",
+    "power",
+    "meter",
+    "heartrate",
+    "heart",
+    "rate"
+  ],
+  "author": "Marius Skaar Ludvigsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ludvigsen/web-bluetooth-training-sensors/issues"
+  },
+  "homepage": "https://github.com/ludvigsen/web-bluetooth-training-sensors#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.0.0"
+  }
+}
